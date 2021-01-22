@@ -28,6 +28,6 @@ app.post("/bmicalculator", function(req, res) {
     res.send("Your BMI is " + bmi);
 });
 
-app.listen(https://nahiaye.github.io/ExpressNodeCalculator/bmiCalculator, function() {
+app.listen(3000, function() {
     console.log("Server is running on port 3000");
 });
